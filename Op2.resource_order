@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Object4","order":3,"path":"objects/Object4/Object4.yy",},
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"Font2","order":1,"path":"fonts/Font2/Font2.yy",},
+    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"Object5","order":4,"path":"objects/Object5/Object5.yy",},
+  ],
+}
